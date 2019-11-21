@@ -38,8 +38,8 @@ class Diago{
   constructor() {
     this.x = random(width);
     this.y = random(height);
-    this.diameter = random(90, 100);
-    this.speed = random(1, 3);;
+    this.diameter = random(50, 100);
+    this.speed = random(1, 5);;
     this.colorH = colorHueInit + random(-2, 2);
     this.colorS = 50 + random(-10, 10);
     this.colorV = 100;//colorHueInit + random(-10, 10);
