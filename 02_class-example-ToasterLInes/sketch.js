@@ -4,7 +4,8 @@ let  totalLines = 60;
 let colorHueInit = 80;
 
 function setup() {
-  createCanvas(640, 480);
+  //createCanvas(640, 480);
+  createCanvas(windowWidth, windowHeight);
   colorMode(HSB, 100);
    
   //myLine = new Diago(); 
