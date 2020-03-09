@@ -1,1 +1,0 @@
-//Convert this random inpunts as a Color Hue Increment. And show shound spectogram in 19 Rects. 
